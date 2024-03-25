@@ -2,7 +2,7 @@
 local hooked = require("hooked")
 
 -- Replace with webhook url
-local url = "https://discord.com/api/webhooks/1221627850013147138/9flKmDdXpWaYlpAnyFGfnx9Iu2ck43Jlon2k-u2JGYuiRDBPAIpFEqht_iLzzRp4OIw-"
+local url = "https://discord.com/api/webhooks/etc"
 
 -- For all text used, you can use markdown, including *italics*, **bold**, __underlines__, ~~strikethrough~~, [hyperlink](https://example.com), and `code blocks`. Also you can use "\n" for newlines.
 
