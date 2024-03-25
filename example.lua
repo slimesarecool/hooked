@@ -31,7 +31,7 @@ local embeds = {
             },
             {
                 name = "Multiple Fields",
-                value = "They're very Customizable"
+                value = "They look nice."
             },
             {
                 name = "Use inline",
@@ -40,7 +40,7 @@ local embeds = {
             },
             {
                 name = "They look nice.",
-                value = "They're than non-inline.",
+                value = "They look better than non-inline.",
                 inline = true
             }
         },
